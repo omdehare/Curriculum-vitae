@@ -5286,3 +5286,11 @@ a.credit {
 /* Common Style */
 .section {
   padding-bottom: 0; }
+  
+/* Vistor's Counter */
+.counter{
+  display: flex ;
+  justify-content: center ;
+  align-items: center ;
+}
+
